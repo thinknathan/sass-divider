@@ -1,0 +1,11 @@
+{
+  "name": "sass-divider",
+  "main": [
+    "sass-divider.scss"
+  ],
+  "homepage": "https://github.com/thinknathan/",
+  "authors": [
+    "Nathan Bolton <nathan@nathanbolton.ca>"
+  ],
+  "license": "MIT"
+}
