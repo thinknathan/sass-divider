@@ -2,5 +2,6 @@
   "name": "sass-divider",
   "version": "1.0.1",
   "description": "",
-  "main": "sass-divider.scss"
+  "main": "sass-divider.scss",
+  "license": "LLVM-exception"
 }
